@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="battleship.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="puntoInicial5" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">12, 54</Value>
+    </Setting>
+    <Setting Name="puntoInicial4" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">12, 90</Value>
+    </Setting>
+    <Setting Name="puntoInicial3" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">12, 126</Value>
+    </Setting>
+    <Setting Name="puntoInicial2a" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">12, 162</Value>
+    </Setting>
+    <Setting Name="puntoInicial2b" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">103, 162</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
