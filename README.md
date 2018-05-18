@@ -1,6 +1,6 @@
 # BattleShip
 Game developed in c#
-##Proyecto de la materia de aplicaciones distribuidas
+## Proyecto de la materia de aplicaciones distribuidas
 
 Juego de batalla naval desarrollado en C#
 Se establece la conexion mediante sockets para jugar entre dos jugadores.
